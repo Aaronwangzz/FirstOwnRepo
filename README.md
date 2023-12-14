@@ -1,0 +1,2 @@
+# FirstOwnRepo
+Learning using git.
